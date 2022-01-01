@@ -1,0 +1,2 @@
+sudo cp /opt/homebrew/Cellar/gmp/6.2.1_1/include/* /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include
+sudo cp -R /opt/homebrew/Cellar/gmp/6.2.1_1/lib/* /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib
